@@ -10,8 +10,8 @@ I continually keep a keen eye on new technologies and tools, constantly learning
 If you are seeking a data analyst with a strong background in data analysis with logical thinking, and innovative problem-solving skills, I look forward to contributing my expertise and skills to your team to achieve the business objectives.
 
 ## Projects
+#### Credit Card Fraud Detection [link here](https://github.com/MJ1015/Credit_Card_Fraud/blob/main/README.md)
 
-## Work Experience
 
 ## Skillsets
 Language: English (business level), Mandarin (native speaker)
